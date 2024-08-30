@@ -6,7 +6,7 @@
 #commande
 python -m venv .env     #NB: .env est le nom de l'environnement virtuel
 ensuuite
-cd .env/cd Scripts && source activate
+cd .env && cd Scripts && source activate
 
 2 - INSTALLATION DE DJANGO et configuration
 
